@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## **💪Skills**<br>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/cplusplus-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/>
