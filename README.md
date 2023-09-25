@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align=center>
-        <img src="https://capsule-render.vercel.app/api?type=transparent&text=[Naeun's git_hub]&animation=twinkling&fontSize=90&fontColor=d6ace6" />
+        <img src="https://capsule-render.vercel.app/api?type=transparent&text=[NAEUN's%20Github]&animation=twinkling&fontSize=90&fontColor=d6ace6" />
 
 </div>
 <div align=center>
