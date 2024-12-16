@@ -16,16 +16,4 @@
 <div align=center>
         <p> SNS & E-Mail </p>
 </div>
-<div align=center>
-        <a href="mailto::kkkne1017@naver.com">
-                <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-        </a>
-        <a href="https://betteree.tistory.com/">
-                <img src="https://img.shields.io/badge/Tistroy-000000?style=flat&logo=tistory&logoColor=white" />
-
-</div>
-<div align=center>
-        <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betteree&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=betteree&show_icons=true">
 
