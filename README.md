@@ -13,7 +13,5 @@
         <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=python&logoColor=white" />
 </div> -->
 <br>
-<div align=center>
-        <p> SNS & E-Mail </p>
-</div>
+
 
